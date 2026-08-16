@@ -95,7 +95,6 @@ Computational imaging researcher at **Northwestern Polytechnical University (NPU
 
 <p align="center">
   <a href="https://arxiv.org/pdf/2606.24153"><img src="https://img.shields.io/badge/arXiv-2606.24153-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"></a>
-  <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/Muyuan-Zhang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
