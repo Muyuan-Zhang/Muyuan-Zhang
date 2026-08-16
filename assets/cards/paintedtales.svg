@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="150" viewBox="0 0 460 150" role="img" aria-label="PaintedTales — web project, JavaScript">
+  <defs>
+    <style><![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Space+Grotesk:wght@500;700&display=swap');
+      .name  { font-family: 'Space Grotesk', system-ui, 'Segoe UI', sans-serif; font-weight: 700; }
+      .body  { font-family: 'Space Grotesk', system-ui, 'Segoe UI', sans-serif; font-weight: 500; }
+      .mono  { font-family: 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace; }
+    ]]></style>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="459" height="149" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="459" height="5" rx="2.5" fill="url(#accent)"/>
+
+  <circle cx="28" cy="42" r="6" fill="#f1e05a"/>
+  <text class="name" x="44" y="47" font-size="19" fill="#ffffff">PaintedTales</text>
+
+  <g class="mono" font-size="13">
+    <path d="M 368 37.5 L 378 42.5 L 368 47.5 Z" fill="#f5c542"/>
+    <text x="386" y="46.5" fill="#e6edf3">0</text>
+  </g>
+
+  <text class="body" x="28" y="82" font-size="13" fill="#c9d1d9">Interactive web project — digital painting,</text>
+  <text class="body" x="28" y="101" font-size="13" fill="#c9d1d9">storytelling and creative coding experiments</text>
+
+  <text class="mono" x="28" y="130" font-size="12" fill="#8b949e">JavaScript</text>
+  <circle cx="92" cy="126.5" r="2.5" fill="#30363d"/>
+  <text class="mono" x="104" y="130" font-size="12" fill="#8b949e">updated Jun 2025</text>
+</svg>

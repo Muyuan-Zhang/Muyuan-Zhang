@@ -49,9 +49,9 @@ Computational imaging researcher at **Northwestern Polytechnical University (NPU
 ### 🗂️ Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Muyuan-Zhang/DU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Muyuan-Zhang&repo=DU&theme=radical&hide_border=true&show_owner=true" alt="DU"></a>
-  <a href="https://github.com/Muyuan-Zhang/PaintedTales"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Muyuan-Zhang&repo=PaintedTales&theme=radical&hide_border=true&show_owner=true" alt="PaintedTales"></a>
-  <a href="https://github.com/Muyuan-Zhang/cheatsheets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Muyuan-Zhang&repo=cheatsheets&theme=radical&hide_border=true&show_owner=true" alt="cheatsheets"></a>
+  <a href="https://github.com/Muyuan-Zhang/DU"><img src="assets/cards/du.svg" alt="DU"></a>
+  <a href="https://github.com/Muyuan-Zhang/PaintedTales"><img src="assets/cards/paintedtales.svg" alt="PaintedTales"></a>
+  <a href="https://github.com/Muyuan-Zhang/cheatsheets"><img src="assets/cards/cheatsheets.svg" alt="cheatsheets"></a>
 </p>
 
 ---
@@ -80,13 +80,8 @@ Computational imaging researcher at **Northwestern Polytechnical University (NPU
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muyuan-Zhang&show_icons=true&rank_icon=percentile&theme=radical&hide_border=true" alt="GitHub stats" height="185">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muyuan-Zhang&layout=donut&theme=radical&hide_border=true&langs_count=8" alt="Top languages" height="185">
-  <img src="https://streak-stats.demolab.com/?user=Muyuan-Zhang&theme=radical&hide_border=true" alt="GitHub streak" height="185">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muyuan-Zhang&theme=radical&no-frame=true&row=1&column=7" alt="GitHub trophies" width="100%">
+  <img src="assets/cards/stats.svg" alt="GitHub stats">
+  <img src="https://streak-stats.demolab.com/?user=Muyuan-Zhang&theme=radical&hide_border=true" alt="GitHub streak" height="200">
 </p>
 
 ---
